@@ -1,0 +1,7 @@
+The domestic economy’s liquidity freeze is triggered by the $10.5B offshore reserves being locked in distressed private credit vehicles (PCVs), which are legally frozen. Since 83.4% of domestic currency is dollarized, depositors’ cash withdrawals demand $X (unknown) in dollar reserves. These reserves are sourced from the $10.5B offshore deployment, which is now immobilized. 
+
+Assume domestic banks have $Y = 0.834 * Z (where Z = total domestic money supply). To meet cash withdrawals, they need $X = Y. But $X must come from offshore reserves. If $X > $10.5B, the system fails. 
+
+Power dynamics: Offshore PCVs (controlled by shadow lenders) hold $10.5B. Domestic autarky relies on these reserves. If PCVs are distressed, shadow lenders can freeze liquidity, forcing domestic banks to default on cash obligations. The ratio of offshore reserves to domestic liquidity demand is $10.5B / $X. If $X > $10.5B, the system collapses. 
+
+Raw math: If domestic cash demand $X = $10.5B * 1.1 (10% buffer), then $X = $11.55B. Since offshore reserves are $10.5B, the shortfall is $1.05B. This creates a liquidity gap where domestic banks cannot meet withdrawals, leading to bank runs. The power of offshore lenders lies in their control over the $10.5B, which is the sole source of domestic liquidity. The 83.4% dollarization magnifies this vulnerability, as domestic money is directly tied to offshore reserves.

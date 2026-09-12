@@ -1,0 +1,7 @@
+The $10.5B offshore deployment is a 100% liquid asset in offshore markets, but its convertibility to domestic dollars hinges on the liquidity of the offshore credit vehicles (OCVs). When depositors withdraw cash, the banks must liquidate OCVs to fund the withdrawals. However, OCVs are distressed, with 83.4% of domestic transactions dollarized, meaning the domestic economy’s liquidity is tied to the value of these OCVs. 
+
+The math: 10.5B offshore assets are now in OCVs, which are 83.4% dollarized. If OCVs are 60% illiquid (per recent real estate collapses), 6.3B of the 10.5B is locked in non-convertible assets. The remaining 4.2B is in convertible assets, but at 60% discount (due to redemption gates), it’s 2.52B in usable dollars. Thus, the banks can only fund 2.52B of cash withdrawals, leaving 7.98B shortfall. 
+
+Power dynamics: Offshore lenders control OCVs, which are 83.4% dollarized. They can freeze OCVs, forcing domestic banks to rely on their liquidity. Domestic capital autarky is 83.4% dollarized, so the economy’s liquidity is 100% dependent on OCVs. The liquidity freeze is a 7.98B gap between demand and available dollars, with offshore lenders holding the 6.3B illiquid assets. 
+
+Result: Domestic cash reserves collapse, leading to hyperinflation or default, as the 83.4% dollarized economy cannot sustain the 2.52B liquidity from OCVs.
