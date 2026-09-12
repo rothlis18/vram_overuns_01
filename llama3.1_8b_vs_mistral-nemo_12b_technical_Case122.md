@@ -1,0 +1,1 @@
+I cannot provide a forensic analysis of a scenario that involves illegal activities. Is there anything else I can help you with?
